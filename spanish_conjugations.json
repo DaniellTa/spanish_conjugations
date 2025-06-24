@@ -1,0 +1,1652 @@
+{
+    "ser": {
+        "preterite": {
+            "yo": "fui",
+            "tú": "fuiste",
+            "él/ella": "fue",
+            "nosotros": "fuimos",
+            "ellos/Uds": "fueron"
+        },
+        "present": {
+            "yo": "soy",
+            "tú": "eres",
+            "él/ella": "es",
+            "nosotros": "somos",
+            "ellos/Uds": "son"
+        },
+        "subjunctive": {
+            "yo": "sea",
+            "tú": "seas",
+            "él/ella": "sea",
+            "nosotros": "seamos",
+            "ellos/Uds": "sean"
+        },
+        "imperfect": {
+            "yo": "era",
+            "tú": "eras",
+            "él/ella": "era",
+            "nosotros": "éramos",
+            "ellos/Uds": "eran"
+        }
+    },
+    "estar": {
+        "preterite": {
+            "yo": "estuve",
+            "tú": "estuviste",
+            "él/ella": "estuvo",
+            "nosotros": "estuvimos",
+            "ellos/Uds": "estuvieron"
+        },
+        "present": {
+            "yo": "estoy",
+            "tú": "estás",
+            "él/ella": "está",
+            "nosotros": "estamos",
+            "ellos/Uds": "están"
+        },
+        "subjunctive": {
+            "yo": "esté",
+            "tú": "estés",
+            "él/ella": "esté",
+            "nosotros": "estemos",
+            "ellos/Uds": "estén"
+        },
+        "imperfect": {
+            "yo": "estaba",
+            "tú": "estabas",
+            "él/ella": "estaba",
+            "nosotros": "estábamos",
+            "ellos/Uds": "estaban"
+        }
+    },
+    "tener": {
+        "preterite": {
+            "yo": "tuve",
+            "tú": "tuviste",
+            "él/ella": "tuvo",
+            "nosotros": "tuvimos",
+            "ellos/Uds": "tuvieron"
+        },
+        "present": {
+            "yo": "tengo",
+            "tú": "tienes",
+            "él/ella": "tiene",
+            "nosotros": "tenemos",
+            "ellos/Uds": "tienen"
+        },
+        "subjunctive": {
+            "yo": "tenga",
+            "tú": "tengas",
+            "él/ella": "tenga",
+            "nosotros": "tengamos",
+            "ellos/Uds": "tengan"
+        },
+        "imperfect": {
+            "yo": "tenía",
+            "tú": "tenías",
+            "él/ella": "tenía",
+            "nosotros": "teníamos",
+            "ellos/Uds": "tenían"
+        }
+    },
+    "hacer": {
+        "preterite": {
+            "yo": "hice",
+            "tú": "hiciste",
+            "él/ella": "hizo",
+            "nosotros": "hicimos",
+            "ellos/Uds": "hicieron"
+        },
+        "present": {
+            "yo": "hago",
+            "tú": "haces",
+            "él/ella": "hace",
+            "nosotros": "hacemos",
+            "ellos/Uds": "hacen"
+        },
+        "subjunctive": {
+            "yo": "haga",
+            "tú": "hagas",
+            "él/ella": "haga",
+            "nosotros": "hagamos",
+            "ellos/Uds": "hagan"
+        },
+        "imperfect": {
+            "yo": "hacía",
+            "tú": "hacías",
+            "él/ella": "hacía",
+            "nosotros": "hacíamos",
+            "ellos/Uds": "hacían"
+        }
+    },
+    "poder": {
+        "preterite": {
+            "yo": "pude",
+            "tú": "pudiste",
+            "él/ella": "pudo",
+            "nosotros": "pudimos",
+            "ellos/Uds": "pudieron"
+        },
+        "present": {
+            "yo": "puedo",
+            "tú": "puedes",
+            "él/ella": "puede",
+            "nosotros": "podemos",
+            "ellos/Uds": "pueden"
+        },
+        "subjunctive": {
+            "yo": "pueda",
+            "tú": "puedas",
+            "él/ella": "pueda",
+            "nosotros": "podamos",
+            "ellos/Uds": "puedan"
+        },
+        "imperfect": {
+            "yo": "podía",
+            "tú": "podías",
+            "él/ella": "podía",
+            "nosotros": "podíamos",
+            "ellos/Uds": "podían"
+        }
+    },
+    "decir": {
+        "preterite": {
+            "yo": "dije",
+            "tú": "dijiste",
+            "él/ella": "dijo",
+            "nosotros": "dijimos",
+            "ellos/Uds": "dijeron"
+        },
+        "present": {
+            "yo": "digo",
+            "tú": "dices",
+            "él/ella": "dice",
+            "nosotros": "decimos",
+            "ellos/Uds": "dicen"
+        },
+        "subjunctive": {
+            "yo": "diga",
+            "tú": "digas",
+            "él/ella": "diga",
+            "nosotros": "digamos",
+            "ellos/Uds": "digan"
+        },
+        "imperfect": {
+            "yo": "decía",
+            "tú": "decías",
+            "él/ella": "decía",
+            "nosotros": "decíamos",
+            "ellos/Uds": "decían"
+        }
+    },
+    "comer": {
+        "preterite": {
+            "yo": "comí",
+            "tú": "comiste",
+            "él/ella": "comió",
+            "nosotros": "comimos",
+            "ellos/Uds": "comieron"
+        },
+        "present": {
+            "yo": "como",
+            "tú": "comes",
+            "él/ella": "come",
+            "nosotros": "comemos",
+            "ellos/Uds": "comen"
+        },
+        "subjunctive": {
+            "yo": "coma",
+            "tú": "comas",
+            "él/ella": "coma",
+            "nosotros": "comamos",
+            "ellos/Uds": "coman"
+        },
+        "imperfect": {
+            "yo": "comía",
+            "tú": "comías",
+            "él/ella": "comía",
+            "nosotros": "comíamos",
+            "ellos/Uds": "comían"
+        }
+    },
+    "ver": {
+        "preterite": {
+            "yo": "vi",
+            "tú": "viste",
+            "él/ella": "vio",
+            "nosotros": "vimos",
+            "ellos/Uds": "vieron"
+        },
+        "present": {
+            "yo": "veo",
+            "tú": "ves",
+            "él/ella": "ve",
+            "nosotros": "vemos",
+            "ellos/Uds": "ven"
+        },
+        "subjunctive": {
+            "yo": "vea",
+            "tú": "veas",
+            "él/ella": "vea",
+            "nosotros": "veamos",
+            "ellos/Uds": "vean"
+        },
+        "imperfect": {
+            "yo": "veía",
+            "tú": "veías",
+            "él/ella": "veía",
+            "nosotros": "veíamos",
+            "ellos/Uds": "veían"
+        }
+    },
+    "dar": {
+        "preterite": {
+            "yo": "di",
+            "tú": "diste",
+            "él/ella": "dio",
+            "nosotros": "dimos",
+            "ellos/Uds": "dieron"
+        },
+        "present": {
+            "yo": "doy",
+            "tú": "das",
+            "él/ella": "da",
+            "nosotros": "damos",
+            "ellos/Uds": "dan"
+        },
+        "subjunctive": {
+            "yo": "dé",
+            "tú": "des",
+            "él/ella": "dé",
+            "nosotros": "demos",
+            "ellos/Uds": "den"
+        },
+        "imperfect": {
+            "yo": "daba",
+            "tú": "dabas",
+            "él/ella": "daba",
+            "nosotros": "dábamos",
+            "ellos/Uds": "daban"
+        }
+    },
+    "saber": {
+        "preterite": {
+            "yo": "supe",
+            "tú": "supiste",
+            "él/ella": "supo",
+            "nosotros": "supimos",
+            "ellos/Uds": "supieron"
+        },
+        "present": {
+            "yo": "sé",
+            "tú": "sabes",
+            "él/ella": "sabe",
+            "nosotros": "sabemos",
+            "ellos/Uds": "saben"
+        },
+        "subjunctive": {
+            "yo": "sepa",
+            "tú": "sepas",
+            "él/ella": "sepa",
+            "nosotros": "sepamos",
+            "ellos/Uds": "sepan"
+        },
+        "imperfect": {
+            "yo": "sabía",
+            "tú": "sabías",
+            "él/ella": "sabía",
+            "nosotros": "sabíamos",
+            "ellos/Uds": "sabían"
+        }
+    },
+    "querer": {
+        "preterite": {
+            "yo": "quise",
+            "tú": "quisiste",
+            "él/ella": "quiso",
+            "nosotros": "quisimos",
+            "ellos/Uds": "quisieron"
+        },
+        "present": {
+            "yo": "quiero",
+            "tú": "quieres",
+            "él/ella": "quiere",
+            "nosotros": "queremos",
+            "ellos/Uds": "quieren"
+        },
+        "subjunctive": {
+            "yo": "quiera",
+            "tú": "quieras",
+            "él/ella": "quiera",
+            "nosotros": "queramos",
+            "ellos/Uds": "quieran"
+        },
+        "imperfect": {
+            "yo": "quería",
+            "tú": "querías",
+            "él/ella": "quería",
+            "nosotros": "queríamos",
+            "ellos/Uds": "querían"
+        }
+    },
+    "llegar": {
+        "preterite": {
+            "yo": "llegué",
+            "tú": "llegaste",
+            "él/ella": "llegó",
+            "nosotros": "llegamos",
+            "ellos/Uds": "llegaron"
+        },
+        "present": {
+            "yo": "llego",
+            "tú": "llegas",
+            "él/ella": "llega",
+            "nosotros": "llegamos",
+            "ellos/Uds": "llegan"
+        },
+        "subjunctive": {
+            "yo": "llegue",
+            "tú": "llegues",
+            "él/ella": "llegue",
+            "nosotros": "lleguemos",
+            "ellos/Uds": "lleguen"
+        },
+        "imperfect": {
+            "yo": "llegaba",
+            "tú": "llegabas",
+            "él/ella": "llegaba",
+            "nosotros": "llegábamos",
+            "ellos/Uds": "llegaban"
+        }
+    },
+    "leer": {
+        "preterite": {
+            "yo": "leí",
+            "tú": "leíste",
+            "él/ella": "leyó",
+            "nosotros": "leímos",
+            "ellos/Uds": "leyeron"
+        },
+        "present": {
+            "yo": "leo",
+            "tú": "lees",
+            "él/ella": "lee",
+            "nosotros": "leemos",
+            "ellos/Uds": "leen"
+        },
+        "subjunctive": {
+            "yo": "lea",
+            "tú": "leas",
+            "él/ella": "lea",
+            "nosotros": "leamos",
+            "ellos/Uds": "lean"
+        },
+        "imperfect": {
+            "yo": "leía",
+            "tú": "leías",
+            "él/ella": "leía",
+            "nosotros": "leíamos",
+            "ellos/Uds": "leían"
+        }
+    },
+    "poner": {
+        "preterite": {
+            "yo": "puse",
+            "tú": "pusiste",
+            "él/ella": "puso",
+            "nosotros": "pusimos",
+            "ellos/Uds": "pusieron"
+        },
+        "present": {
+            "yo": "pongo",
+            "tú": "pones",
+            "él/ella": "pone",
+            "nosotros": "ponemos",
+            "ellos/Uds": "ponen"
+        },
+        "subjunctive": {
+            "yo": "ponga",
+            "tú": "pongas",
+            "él/ella": "ponga",
+            "nosotros": "pongamos",
+            "ellos/Uds": "pongan"
+        },
+        "imperfect": {
+            "yo": "ponía",
+            "tú": "ponías",
+            "él/ella": "ponía",
+            "nosotros": "poníamos",
+            "ellos/Uds": "ponían"
+        }
+    },
+    "hablar": {
+        "preterite": {
+            "yo": "hablé",
+            "tú": "hablaste",
+            "él/ella": "habló",
+            "nosotros": "hablamos",
+            "ellos/Uds": "hablaron"
+        },
+        "present": {
+            "yo": "hablo",
+            "tú": "hablas",
+            "él/ella": "habla",
+            "nosotros": "hablamos",
+            "ellos/Uds": "hablan"
+        },
+        "subjunctive": {
+            "yo": "hable",
+            "tú": "hables",
+            "él/ella": "hable",
+            "nosotros": "hablemos",
+            "ellos/Uds": "hablen"
+        },
+        "imperfect": {
+            "yo": "hablaba",
+            "tú": "hablabas",
+            "él/ella": "hablaba",
+            "nosotros": "hablábamos",
+            "ellos/Uds": "hablaban"
+        }
+    },
+    "seguir": {
+        "preterite": {
+            "yo": "seguí",
+            "tú": "seguiste",
+            "él/ella": "siguió",
+            "nosotros": "seguimos",
+            "ellos/Uds": "siguieron"
+        },
+        "present": {
+            "yo": "sigo",
+            "tú": "sigues",
+            "él/ella": "sigue",
+            "nosotros": "seguimos",
+            "ellos/Uds": "siguen"
+        },
+        "subjunctive": {
+            "yo": "siga",
+            "tú": "sigas",
+            "él/ella": "siga",
+            "nosotros": "sigamos",
+            "ellos/Uds": "sigan"
+        },
+        "imperfect": {
+            "yo": "seguía",
+            "tú": "seguías",
+            "él/ella": "seguía",
+            "nosotros": "seguíamos",
+            "ellos/Uds": "seguían"
+        }
+    },
+    "encontrar": {
+        "preterite": {
+            "yo": "encontré",
+            "tú": "encontraste",
+            "él/ella": "encontró",
+            "nosotros": "encontramos",
+            "ellos/Uds": "encontraron"
+        },
+        "present": {
+            "yo": "encuentro",
+            "tú": "encuentras",
+            "él/ella": "encuentra",
+            "nosotros": "encontramos",
+            "ellos/Uds": "encuentran"
+        },
+        "subjunctive": {
+            "yo": "encuentre",
+            "tú": "encuentres",
+            "él/ella": "encuentre",
+            "nosotros": "encontremos",
+            "ellos/Uds": "encuentren"
+        },
+        "imperfect": {
+            "yo": "encontraba",
+            "tú": "encontrabas",
+            "él/ella": "encontraba",
+            "nosotros": "encontrábamos",
+            "ellos/Uds": "encontraban"
+        }
+    },
+    "llamar": {
+        "preterite": {
+            "yo": "llamé",
+            "tú": "llamaste",
+            "él/ella": "llamó",
+            "nosotros": "llamamos",
+            "ellos/Uds": "llamaron"
+        },
+        "present": {
+            "yo": "llamo",
+            "tú": "llamas",
+            "él/ella": "llama",
+            "nosotros": "llamamos",
+            "ellos/Uds": "llaman"
+        },
+        "subjunctive": {
+            "yo": "llame",
+            "tú": "llames",
+            "él/ella": "llame",
+            "nosotros": "llamemos",
+            "ellos/Uds": "llamen"
+        },
+        "imperfect": {
+            "yo": "llamaba",
+            "tú": "llamabas",
+            "él/ella": "llamaba",
+            "nosotros": "llamábamos",
+            "ellos/Uds": "llamaban"
+        }
+    },
+    "ir": {
+        "preterite": {
+            "yo": "fui",
+            "tú": "fuiste",
+            "él/ella": "fue",
+            "nosotros": "fuimos",
+            "ellos/Uds": "fueron"
+        },
+        "present": {
+            "yo": "voy",
+            "tú": "vas",
+            "él/ella": "va",
+            "nosotros": "vamos",
+            "ellos/Uds": "van"
+        },
+        "subjunctive": {
+            "yo": "vaya",
+            "tú": "vayas",
+            "él/ella": "vaya",
+            "nosotros": "vayamos",
+            "ellos/Uds": "vayan"
+        },
+        "imperfect": {
+            "yo": "iba",
+            "tú": "ibas",
+            "él/ella": "iba",
+            "nosotros": "íbamos",
+            "ellos/Uds": "iban"
+        }
+    },
+    "creer": {
+        "preterite": {
+            "yo": "creí",
+            "tú": "creíste",
+            "él/ella": "creyó",
+            "nosotros": "creímos",
+            "ellos/Uds": "creyeron"
+        },
+        "present": {
+            "yo": "creo",
+            "tú": "crees",
+            "él/ella": "cree",
+            "nosotros": "creemos",
+            "ellos/Uds": "creen"
+        },
+        "subjunctive": {
+            "yo": "crea",
+            "tú": "creas",
+            "él/ella": "crea",
+            "nosotros": "creamos",
+            "ellos/Uds": "crean"
+        },
+        "imperfect": {
+            "yo": "creía",
+            "tú": "creías",
+            "él/ella": "creía",
+            "nosotros": "creíamos",
+            "ellos/Uds": "creían"
+        }
+    },
+    "deber": {
+        "preterite": {
+            "yo": "debí",
+            "tú": "debiste",
+            "él/ella": "debió",
+            "nosotros": "debimos",
+            "ellos/Uds": "debieron"
+        },
+        "present": {
+            "yo": "debo",
+            "tú": "debes",
+            "él/ella": "debe",
+            "nosotros": "debemos",
+            "ellos/Uds": "deben"
+        },
+        "subjunctive": {
+            "yo": "deba",
+            "tú": "debas",
+            "él/ella": "deba",
+            "nosotros": "debamos",
+            "ellos/Uds": "deban"
+        },
+        "imperfect": {
+            "yo": "debía",
+            "tú": "debías",
+            "él/ella": "debía",
+            "nosotros": "debíamos",
+            "ellos/Uds": "debían"
+        }
+    },
+    "quedarse": {
+        "preterite": {
+            "yo": "me quedé",
+            "tú": "te quedaste",
+            "él/ella": "se quedó",
+            "nosotros": "nos quedamos",
+            "ellos/Uds": "se quedaron"
+        },
+        "present": {
+            "yo": "me quedo",
+            "tú": "te quedas",
+            "él/ella": "se queda",
+            "nosotros": "nos quedamos",
+            "ellos/Uds": "se quedan"
+        },
+        "subjunctive": {
+            "yo": "me quede",
+            "tú": "te quedes",
+            "él/ella": "se quede",
+            "nosotros": "nos quedemos",
+            "ellos/Uds": "se queden"
+        },
+        "imperfect": {
+            "yo": "me quedaba",
+            "tú": "te quedabas",
+            "él/ella": "se quedaba",
+            "nosotros": "nos quedábamos",
+            "ellos/Uds": "se quedaban"
+        }
+    },
+    "despertarse": {
+        "preterite": {
+            "yo": "me desperté",
+            "tú": "te despertaste",
+            "él/ella": "se despertó",
+            "nosotros": "nos despertamos",
+            "ellos/Uds": "se despertaron"
+        },
+        "present": {
+            "yo": "me despierto",
+            "tú": "te despiertas",
+            "él/ella": "se despierta",
+            "nosotros": "nos despertamos",
+            "ellos/Uds": "se despiertan"
+        },
+        "subjunctive": {
+            "yo": "me despierte",
+            "tú": "te despiertes",
+            "él/ella": "se despierte",
+            "nosotros": "nos despertemos",
+            "ellos/Uds": "se despierten"
+        },
+        "imperfect": {
+            "yo": "me despertaba",
+            "tú": "te despertabas",
+            "él/ella": "se despertaba",
+            "nosotros": "nos despertábamos",
+            "ellos/Uds": "se despertaban"
+        }
+    },
+    "acostarse": {
+        "preterite": {
+            "yo": "me acosté",
+            "tú": "te acostaste",
+            "él/ella": "se acostó",
+            "nosotros": "nos acostamos",
+            "ellos/Uds": "se acostaron"
+        },
+        "present": {
+            "yo": "me acuesto",
+            "tú": "te acuestas",
+            "él/ella": "se acuesta",
+            "nosotros": "nos acostamos",
+            "ellos/Uds": "se acuestan"
+        },
+        "subjunctive": {
+            "yo": "me acueste",
+            "tú": "te acuestes",
+            "él/ella": "se acueste",
+            "nosotros": "nos acostemos",
+            "ellos/Uds": "se acuesten"
+        },
+        "imperfect": {
+            "yo": "me acostaba",
+            "tú": "te acostabas",
+            "él/ella": "se acostaba",
+            "nosotros": "nos acostábamos",
+            "ellos/Uds": "se acostaban"
+        }
+    },
+    "dormir": {
+        "preterite": {
+            "yo": "dormí",
+            "tú": "dormiste",
+            "él/ella": "durmió",
+            "nosotros": "dormimos",
+            "ellos/Uds": "durmieron"
+        },
+        "present": {
+            "yo": "duermo",
+            "tú": "duermes",
+            "él/ella": "duerme",
+            "nosotros": "dormimos",
+            "ellos/Uds": "duermen"
+        },
+        "subjunctive": {
+            "yo": "duerma",
+            "tú": "duermas",
+            "él/ella": "duerma",
+            "nosotros": "durmamos",
+            "ellos/Uds": "duerman"
+        },
+        "imperfect": {
+            "yo": "dormía",
+            "tú": "dormías",
+            "él/ella": "dormía",
+            "nosotros": "dormíamos",
+            "ellos/Uds": "dormían"
+        }
+    },
+    "pedir": {
+        "preterite": {
+            "yo": "pedí",
+            "tú": "pediste",
+            "él/ella": "pidió",
+            "nosotros": "pedimos",
+            "ellos/Uds": "pidieron"
+        },
+        "present": {
+            "yo": "pido",
+            "tú": "pides",
+            "él/ella": "pide",
+            "nosotros": "pedimos",
+            "ellos/Uds": "piden"
+        },
+        "subjunctive": {
+            "yo": "pida",
+            "tú": "pidas",
+            "él/ella": "pida",
+            "nosotros": "pidamos",
+            "ellos/Uds": "pidan"
+        },
+        "imperfect": {
+            "yo": "pedía",
+            "tú": "pedías",
+            "él/ella": "pedía",
+            "nosotros": "pedíamos",
+            "ellos/Uds": "pedían"
+        }
+    },
+    "sentir": {
+        "preterite": {
+            "yo": "sentí",
+            "tú": "sentiste",
+            "él/ella": "sintió",
+            "nosotros": "sentimos",
+            "ellos/Uds": "sintieron"
+        },
+        "present": {
+            "yo": "siento",
+            "tú": "sientes",
+            "él/ella": "siente",
+            "nosotros": "sentimos",
+            "ellos/Uds": "sienten"
+        },
+        "subjunctive": {
+            "yo": "sienta",
+            "tú": "sientas",
+            "él/ella": "sienta",
+            "nosotros": "sintamos",
+            "ellos/Uds": "sientan"
+        },
+        "imperfect": {
+            "yo": "sentía",
+            "tú": "sentías",
+            "él/ella": "sentía",
+            "nosotros": "sentíamos",
+            "ellos/Uds": "sentían"
+        }
+    },
+    "sentar": {
+        "preterite": {
+            "yo": "senté",
+            "tú": "sentaste",
+            "él/ella": "sentó",
+            "nosotros": "sentamos",
+            "ellos/Uds": "sentaron"
+        },
+        "present": {
+            "yo": "siento",
+            "tú": "sientas",
+            "él/ella": "sienta",
+            "nosotros": "sentamos",
+            "ellos/Uds": "sientan"
+        },
+        "subjunctive": {
+            "yo": "siente",
+            "tú": "sientes",
+            "él/ella": "siente",
+            "nosotros": "sentemos",
+            "ellos/Uds": "sienten"
+        },
+        "imperfect": {
+            "yo": "sentaba",
+            "tú": "sentabas",
+            "él/ella": "sentaba",
+            "nosotros": "sentábamos",
+            "ellos/Uds": "sentaban"
+        }
+    },
+    "dejar": {
+        "preterite": {
+            "yo": "dejé",
+            "tú": "dejaste",
+            "él/ella": "dejó",
+            "nosotros": "dejamos",
+            "ellos/Uds": "dejaron"
+        },
+        "present": {
+            "yo": "dejo",
+            "tú": "dejas",
+            "él/ella": "deja",
+            "nosotros": "dejamos",
+            "ellos/Uds": "dejan"
+        },
+        "subjunctive": {
+            "yo": "deje",
+            "tú": "dejes",
+            "él/ella": "deje",
+            "nosotros": "dejemos",
+            "ellos/Uds": "dejen"
+        },
+        "imperfect": {
+            "yo": "dejaba",
+            "tú": "dejabas",
+            "él/ella": "dejaba",
+            "nosotros": "dejábamos",
+            "ellos/Uds": "dejaban"
+        }
+    },
+    "llevar": {
+        "preterite": {
+            "yo": "llevé",
+            "tú": "llevaste",
+            "él/ella": "llevó",
+            "nosotros": "llevamos",
+            "ellos/Uds": "llevaron"
+        },
+        "present": {
+            "yo": "llevo",
+            "tú": "llevas",
+            "él/ella": "lleva",
+            "nosotros": "llevamos",
+            "ellos/Uds": "llevan"
+        },
+        "subjunctive": {
+            "yo": "lleve",
+            "tú": "lleves",
+            "él/ella": "lleve",
+            "nosotros": "llevemos",
+            "ellos/Uds": "lleven"
+        },
+        "imperfect": {
+            "yo": "llevaba",
+            "tú": "llevabas",
+            "él/ella": "llevaba",
+            "nosotros": "llevábamos",
+            "ellos/Uds": "llevaban"
+        }
+    },
+    "entender": {
+        "preterite": {
+            "yo": "entendí",
+            "tú": "entendiste",
+            "él/ella": "entendió",
+            "nosotros": "entendimos",
+            "ellos/Uds": "entendieron"
+        },
+        "present": {
+            "yo": "entiendo",
+            "tú": "entiendes",
+            "él/ella": "entiende",
+            "nosotros": "entendemos",
+            "ellos/Uds": "entienden"
+        },
+        "subjunctive": {
+            "yo": "entienda",
+            "tú": "entiendas",
+            "él/ella": "entienda",
+            "nosotros": "entendamos",
+            "ellos/Uds": "entiendan"
+        },
+        "imperfect": {
+            "yo": "entendía",
+            "tú": "entendías",
+            "él/ella": "entendía",
+            "nosotros": "entendíamos",
+            "ellos/Uds": "entendían"
+        }
+    },
+    "preguntar": {
+        "preterite": {
+            "yo": "pregunté",
+            "tú": "preguntaste",
+            "él/ella": "preguntó",
+            "nosotros": "preguntamos",
+            "ellos/Uds": "preguntaron"
+        },
+        "present": {
+            "yo": "pregunto",
+            "tú": "preguntas",
+            "él/ella": "pregunta",
+            "nosotros": "preguntamos",
+            "ellos/Uds": "preguntan"
+        },
+        "subjunctive": {
+            "yo": "pregunte",
+            "tú": "preguntes",
+            "él/ella": "pregunte",
+            "nosotros": "preguntemos",
+            "ellos/Uds": "pregunten"
+        },
+        "imperfect": {
+            "yo": "preguntaba",
+            "tú": "preguntabas",
+            "él/ella": "preguntaba",
+            "nosotros": "preguntábamos",
+            "ellos/Uds": "preguntaban"
+        }
+    },
+    "comprar": {
+        "preterite": {
+            "yo": "compré",
+            "tú": "compraste",
+            "él/ella": "compró",
+            "nosotros": "compramos",
+            "ellos/Uds": "compraron"
+        },
+        "present": {
+            "yo": "compro",
+            "tú": "compras",
+            "él/ella": "compra",
+            "nosotros": "compramos",
+            "ellos/Uds": "compran"
+        },
+        "subjunctive": {
+            "yo": "compre",
+            "tú": "compres",
+            "él/ella": "compre",
+            "nosotros": "compremos",
+            "ellos/Uds": "compren"
+        },
+        "imperfect": {
+            "yo": "compraba",
+            "tú": "comprabas",
+            "él/ella": "compraba",
+            "nosotros": "comprábamos",
+            "ellos/Uds": "compraban"
+        }
+    },
+    "ayudar": {
+        "preterite": {
+            "yo": "ayudé",
+            "tú": "ayudaste",
+            "él/ella": "ayudó",
+            "nosotros": "ayudamos",
+            "ellos/Uds": "ayudaron"
+        },
+        "present": {
+            "yo": "ayudo",
+            "tú": "ayudas",
+            "él/ella": "ayuda",
+            "nosotros": "ayudamos",
+            "ellos/Uds": "ayudan"
+        },
+        "subjunctive": {
+            "yo": "ayude",
+            "tú": "ayudes",
+            "él/ella": "ayude",
+            "nosotros": "ayudemos",
+            "ellos/Uds": "ayuden"
+        },
+        "imperfect": {
+            "yo": "ayudaba",
+            "tú": "ayudabas",
+            "él/ella": "ayudaba",
+            "nosotros": "ayudábamos",
+            "ellos/Uds": "ayudaban"
+        }
+    },
+    "jugar": {
+        "preterite": {
+            "yo": "jugué",
+            "tú": "jugaste",
+            "él/ella": "jugó",
+            "nosotros": "jugamos",
+            "ellos/Uds": "jugaron"
+        },
+        "present": {
+            "yo": "juego",
+            "tú": "juegas",
+            "él/ella": "juega",
+            "nosotros": "jugamos",
+            "ellos/Uds": "juegan"
+        },
+        "subjunctive": {
+            "yo": "juegue",
+            "tú": "juegues",
+            "él/ella": "juegue",
+            "nosotros": "juguemos",
+            "ellos/Uds": "jueguen"
+        },
+        "imperfect": {
+            "yo": "jugaba",
+            "tú": "jugabas",
+            "él/ella": "jugaba",
+            "nosotros": "jugábamos",
+            "ellos/Uds": "jugaban"
+        }
+    },
+    "escuchar": {
+        "preterite": {
+            "yo": "escuché",
+            "tú": "escuchaste",
+            "él/ella": "escuchó",
+            "nosotros": "escuchamos",
+            "ellos/Uds": "escucharon"
+        },
+        "present": {
+            "yo": "escucho",
+            "tú": "escuchas",
+            "él/ella": "escucha",
+            "nosotros": "escuchamos",
+            "ellos/Uds": "escuchan"
+        },
+        "subjunctive": {
+            "yo": "escuche",
+            "tú": "escuches",
+            "él/ella": "escuche",
+            "nosotros": "escuchemos",
+            "ellos/Uds": "escuchen"
+        },
+        "imperfect": {
+            "yo": "escuchaba",
+            "tú": "escuchabas",
+            "él/ella": "escuchaba",
+            "nosotros": "escuchábamos",
+            "ellos/Uds": "escuchaban"
+        }
+    },
+    "levantarse": {
+        "preterite": {
+            "yo": "me levanté",
+            "tú": "te levantaste",
+            "él/ella": "se levantó",
+            "nosotros": "nos levantamos",
+            "ellos/Uds": "se levantaron"
+        },
+        "present": {
+            "yo": "me levanto",
+            "tú": "te levantas",
+            "él/ella": "se levanta",
+            "nosotros": "nos levantamos",
+            "ellos/Uds": "se levantan"
+        },
+        "subjunctive": {
+            "yo": "me levante",
+            "tú": "te levantes",
+            "él/ella": "se levante",
+            "nosotros": "nos levantemos",
+            "ellos/Uds": "se levanten"
+        },
+        "imperfect": {
+            "yo": "me levantaba",
+            "tú": "te levantabas",
+            "él/ella": "se levantaba",
+            "nosotros": "nos levantábamos",
+            "ellos/Uds": "se levantaban"
+        }
+    },
+    "vestirse": {
+        "preterite": {
+            "yo": "me vestí",
+            "tú": "te vestiste",
+            "él/ella": "se vistió",
+            "nosotros": "nos vestimos",
+            "ellos/Uds": "se vistieron"
+        },
+        "present": {
+            "yo": "me visto",
+            "tú": "te vistes",
+            "él/ella": "se viste",
+            "nosotros": "nos vestimos",
+            "ellos/Uds": "se visten"
+        },
+        "subjunctive": {
+            "yo": "me vista",
+            "tú": "te vistas",
+            "él/ella": "se vista",
+            "nosotros": "nos vistamos",
+            "ellos/Uds": "se vistan"
+        },
+        "imperfect": {
+            "yo": "me vestía",
+            "tú": "te vestías",
+            "él/ella": "se vestía",
+            "nosotros": "nos vestíamos",
+            "ellos/Uds": "se vestían"
+        }
+    },
+    "divertirse": {
+        "preterite": {
+            "yo": "me divertí",
+            "tú": "te divertiste",
+            "él/ella": "se divirtió",
+            "nosotros": "nos divertimos",
+            "ellos/Uds": "se divirtieron"
+        },
+        "present": {
+            "yo": "me divierto",
+            "tú": "te diviertes",
+            "él/ella": "se divierte",
+            "nosotros": "nos divertimos",
+            "ellos/Uds": "se divierten"
+        },
+        "subjunctive": {
+            "yo": "me divierta",
+            "tú": "te diviertas",
+            "él/ella": "se divierta",
+            "nosotros": "nos divirtamos",
+            "ellos/Uds": "se diviertan"
+        },
+        "imperfect": {
+            "yo": "me divertía",
+            "tú": "te divertías",
+            "él/ella": "se divertía",
+            "nosotros": "nos divertíamos",
+            "ellos/Uds": "se divertían"
+        }
+    },
+    "venir": {
+        "preterite": {
+            "yo": "vine",
+            "tú": "viniste",
+            "él/ella": "vino",
+            "nosotros": "vinimos",
+            "ellos/Uds": "vinieron"
+        },
+        "present": {
+            "yo": "vengo",
+            "tú": "vienes",
+            "él/ella": "viene",
+            "nosotros": "venimos",
+            "ellos/Uds": "vienen"
+        },
+        "subjunctive": {
+            "yo": "venga",
+            "tú": "vengas",
+            "él/ella": "venga",
+            "nosotros": "vengamos",
+            "ellos/Uds": "vengan"
+        },
+        "imperfect": {
+            "yo": "venía",
+            "tú": "venías",
+            "él/ella": "venía",
+            "nosotros": "veníamos",
+            "ellos/Uds": "venían"
+        }
+    },
+    "traer": {
+        "preterite": {
+            "yo": "traje",
+            "tú": "trajiste",
+            "él/ella": "trajo",
+            "nosotros": "trajimos",
+            "ellos/Uds": "trajeron"
+        },
+        "present": {
+            "yo": "traigo",
+            "tú": "traes",
+            "él/ella": "trae",
+            "nosotros": "traemos",
+            "ellos/Uds": "traen"
+        },
+        "subjunctive": {
+            "yo": "traiga",
+            "tú": "traigas",
+            "él/ella": "traiga",
+            "nosotros": "traigamos",
+            "ellos/Uds": "traigan"
+        },
+        "imperfect": {
+            "yo": "traía",
+            "tú": "traías",
+            "él/ella": "traía",
+            "nosotros": "traíamos",
+            "ellos/Uds": "traían"
+        }
+    },
+    "conducir": {
+        "preterite": {
+            "yo": "conduje",
+            "tú": "condujiste",
+            "él/ella": "condujo",
+            "nosotros": "condujimos",
+            "ellos/Uds": "condujeron"
+        },
+        "present": {
+            "yo": "conduzco",
+            "tú": "conduces",
+            "él/ella": "conduce",
+            "nosotros": "conducimos",
+            "ellos/Uds": "conducen"
+        },
+        "subjunctive": {
+            "yo": "conduzca",
+            "tú": "conduzcas",
+            "él/ella": "conduzca",
+            "nosotros": "conduzcamos",
+            "ellos/Uds": "conduzcan"
+        },
+        "imperfect": {
+            "yo": "conducía",
+            "tú": "conducías",
+            "él/ella": "conducía",
+            "nosotros": "conducíamos",
+            "ellos/Uds": "conducían"
+        }
+    },
+    "traducir": {
+        "preterite": {
+            "yo": "traduje",
+            "tú": "tradujiste",
+            "él/ella": "tradujo",
+            "nosotros": "tradujimos",
+            "ellos/Uds": "tradujeron"
+        },
+        "present": {
+            "yo": "traduzco",
+            "tú": "traduces",
+            "él/ella": "traduce",
+            "nosotros": "traducimos",
+            "ellos/Uds": "traducen"
+        },
+        "subjunctive": {
+            "yo": "traduzca",
+            "tú": "traduzcas",
+            "él/ella": "traduzca",
+            "nosotros": "traduzcamos",
+            "ellos/Uds": "traduzcan"
+        },
+        "imperfect": {
+            "yo": "traducía",
+            "tú": "traducías",
+            "él/ella": "traducía",
+            "nosotros": "traducíamos",
+            "ellos/Uds": "traducían"
+        }
+    },
+    "buscar": {
+        "preterite": {
+            "yo": "busqué",
+            "tú": "buscaste",
+            "él/ella": "buscó",
+            "nosotros": "buscamos",
+            "ellos/Uds": "buscaron"
+        },
+        "present": {
+            "yo": "busco",
+            "tú": "buscas",
+            "él/ella": "busca",
+            "nosotros": "buscamos",
+            "ellos/Uds": "buscan"
+        },
+        "subjunctive": {
+            "yo": "busque",
+            "tú": "busques",
+            "él/ella": "busque",
+            "nosotros": "busquemos",
+            "ellos/Uds": "busquen"
+        },
+        "imperfect": {
+            "yo": "buscaba",
+            "tú": "buscabas",
+            "él/ella": "buscaba",
+            "nosotros": "buscábamos",
+            "ellos/Uds": "buscaban"
+        }
+    },
+    "servir": {
+        "preterite": {
+            "yo": "serví",
+            "tú": "serviste",
+            "él/ella": "sirvió",
+            "nosotros": "servimos",
+            "ellos/Uds": "sirvieron"
+        },
+        "present": {
+            "yo": "sirvo",
+            "tú": "sirves",
+            "él/ella": "sirve",
+            "nosotros": "servimos",
+            "ellos/Uds": "sirven"
+        },
+        "subjunctive": {
+            "yo": "sirva",
+            "tú": "sirvas",
+            "él/ella": "sirva",
+            "nosotros": "sirvamos",
+            "ellos/Uds": "sirvan"
+        },
+        "imperfect": {
+            "yo": "servía",
+            "tú": "servías",
+            "él/ella": "servía",
+            "nosotros": "servíamos",
+            "ellos/Uds": "servían"
+        }
+    },
+    "rezar": {
+        "preterite": {
+            "yo": "recé",
+            "tú": "rezaste",
+            "él/ella": "rezó",
+            "nosotros": "rezamos",
+            "ellos/Uds": "rezaron"
+        },
+        "present": {
+            "yo": "rezo",
+            "tú": "rezas",
+            "él/ella": "reza",
+            "nosotros": "rezamos",
+            "ellos/Uds": "rezan"
+        },
+        "subjunctive": {
+            "yo": "rece",
+            "tú": "reces",
+            "él/ella": "rece",
+            "nosotros": "recemos",
+            "ellos/Uds": "recen"
+        },
+        "imperfect": {
+            "yo": "rezaba",
+            "tú": "rezabas",
+            "él/ella": "rezaba",
+            "nosotros": "rezábamos",
+            "ellos/Uds": "rezaban"
+        }
+    },
+    "empezar": {
+        "preterite": {
+            "yo": "empecé",
+            "tú": "empezaste",
+            "él/ella": "empezó",
+            "nosotros": "empezamos",
+            "ellos/Uds": "empezaron"
+        },
+        "present": {
+            "yo": "empiezo",
+            "tú": "empiezas",
+            "él/ella": "empieza",
+            "nosotros": "empezamos",
+            "ellos/Uds": "empiezan"
+        },
+        "subjunctive": {
+            "yo": "empiece",
+            "tú": "empieces",
+            "él/ella": "empiece",
+            "nosotros": "empecemos",
+            "ellos/Uds": "empiecen"
+        },
+        "imperfect": {
+            "yo": "empezaba",
+            "tú": "empezabas",
+            "él/ella": "empezaba",
+            "nosotros": "empezábamos",
+            "ellos/Uds": "empezaban"
+        }
+    },
+    "cerrar": {
+        "preterite": {
+            "yo": "cerré",
+            "tú": "cerraste",
+            "él/ella": "cerró",
+            "nosotros": "cerramos",
+            "ellos/Uds": "cerraron"
+        },
+        "present": {
+            "yo": "cierro",
+            "tú": "cierras",
+            "él/ella": "cierra",
+            "nosotros": "cerramos",
+            "ellos/Uds": "cierran"
+        },
+        "subjunctive": {
+            "yo": "cierre",
+            "tú": "cierres",
+            "él/ella": "cierre",
+            "nosotros": "cerremos",
+            "ellos/Uds": "cierren"
+        },
+        "imperfect": {
+            "yo": "cerraba",
+            "tú": "cerrabas",
+            "él/ella": "cerraba",
+            "nosotros": "cerrábamos",
+            "ellos/Uds": "cerraban"
+        }
+    },
+    "preferir": {
+        "preterite": {
+            "yo": "preferí",
+            "tú": "preferiste",
+            "él/ella": "prefirió",
+            "nosotros": "preferimos",
+            "ellos/Uds": "prefirieron"
+        },
+        "present": {
+            "yo": "prefiero",
+            "tú": "prefieres",
+            "él/ella": "prefiere",
+            "nosotros": "preferimos",
+            "ellos/Uds": "prefieren"
+        },
+        "subjunctive": {
+            "yo": "prefiera",
+            "tú": "prefieras",
+            "él/ella": "prefiera",
+            "nosotros": "prefiramos",
+            "ellos/Uds": "prefieran"
+        },
+        "imperfect": {
+            "yo": "prefería",
+            "tú": "preferías",
+            "él/ella": "prefería",
+            "nosotros": "preferíamos",
+            "ellos/Uds": "preferían"
+        }
+    },
+    "almorzar": {
+        "preterite": {
+            "yo": "almorcé",
+            "tú": "almorzaste",
+            "él/ella": "almorzó",
+            "nosotros": "almorzamos",
+            "ellos/Uds": "almorzaron"
+        },
+        "present": {
+            "yo": "almuerzo",
+            "tú": "almuerzas",
+            "él/ella": "almuerza",
+            "nosotros": "almorzamos",
+            "ellos/Uds": "almuerzan"
+        },
+        "subjunctive": {
+            "yo": "almuerce",
+            "tú": "almuerces",
+            "él/ella": "almuerce",
+            "nosotros": "almorcemos",
+            "ellos/Uds": "almuercen"
+        },
+        "imperfect": {
+            "yo": "almorzaba",
+            "tú": "almorzabas",
+            "él/ella": "almorzaba",
+            "nosotros": "almorzábamos",
+            "ellos/Uds": "almorzaban"
+        }
+    },
+    "mover": {
+        "preterite": {
+            "yo": "moví",
+            "tú": "moviste",
+            "él/ella": "movió",
+            "nosotros": "movimos",
+            "ellos/Uds": "movieron"
+        },
+        "present": {
+            "yo": "muevo",
+            "tú": "mueves",
+            "él/ella": "mueve",
+            "nosotros": "movemos",
+            "ellos/Uds": "mueven"
+        },
+        "subjunctive": {
+            "yo": "mueva",
+            "tú": "muevas",
+            "él/ella": "mueva",
+            "nosotros": "movamos",
+            "ellos/Uds": "muevan"
+        },
+        "imperfect": {
+            "yo": "movía",
+            "tú": "movías",
+            "él/ella": "movía",
+            "nosotros": "movíamos",
+            "ellos/Uds": "movían"
+        }
+    },
+    "recordar": {
+        "preterite": {
+            "yo": "recordé",
+            "tú": "recordaste",
+            "él/ella": "recordó",
+            "nosotros": "recordamos",
+            "ellos/Uds": "recordaron"
+        },
+        "present": {
+            "yo": "recuerdo",
+            "tú": "recuerdas",
+            "él/ella": "recuerda",
+            "nosotros": "recordamos",
+            "ellos/Uds": "recuerdan"
+        },
+        "subjunctive": {
+            "yo": "recuerde",
+            "tú": "recuerdes",
+            "él/ella": "recuerde",
+            "nosotros": "recordemos",
+            "ellos/Uds": "recuerden"
+        },
+        "imperfect": {
+            "yo": "recordaba",
+            "tú": "recordabas",
+            "él/ella": "recordaba",
+            "nosotros": "recordábamos",
+            "ellos/Uds": "recordaban"
+        }
+    },
+    "volver": {
+        "preterite": {
+            "yo": "volví",
+            "tú": "volviste",
+            "él/ella": "volvió",
+            "nosotros": "volvimos",
+            "ellos/Uds": "volvieron"
+        },
+        "present": {
+            "yo": "vuelvo",
+            "tú": "vuelves",
+            "él/ella": "vuelve",
+            "nosotros": "volvemos",
+            "ellos/Uds": "vuelven"
+        },
+        "subjunctive": {
+            "yo": "vuelva",
+            "tú": "vuelvas",
+            "él/ella": "vuelva",
+            "nosotros": "volvamos",
+            "ellos/Uds": "vuelvan"
+        },
+        "imperfect": {
+            "yo": "volvía",
+            "tú": "volvías",
+            "él/ella": "volvía",
+            "nosotros": "volvíamos",
+            "ellos/Uds": "volvían"
+        }
+    },
+    "elegir": {
+        "preterite": {
+            "yo": "elegí",
+            "tú": "elegiste",
+            "él/ella": "eligió",
+            "nosotros": "elegimos",
+            "ellos/Uds": "eligieron"
+        },
+        "present": {
+            "yo": "elijo",
+            "tú": "eliges",
+            "él/ella": "elige",
+            "nosotros": "elegimos",
+            "ellos/Uds": "eligen"
+        },
+        "subjunctive": {
+            "yo": "elija",
+            "tú": "elijas",
+            "él/ella": "elija",
+            "nosotros": "elijamos",
+            "ellos/Uds": "elijan"
+        },
+        "imperfect": {
+            "yo": "elegía",
+            "tú": "elegías",
+            "él/ella": "elegía",
+            "nosotros": "elegíamos",
+            "ellos/Uds": "elegían"
+        }
+    },
+    "salir": {
+        "preterite": {
+            "yo": "salí",
+            "tú": "saliste",
+            "él/ella": "salió",
+            "nosotros": "salimos",
+            "ellos/Uds": "salieron"
+        },
+        "present": {
+            "yo": "salgo",
+            "tú": "sales",
+            "él/ella": "sale",
+            "nosotros": "salimos",
+            "ellos/Uds": "salen"
+        },
+        "subjunctive": {
+            "yo": "salga",
+            "tú": "salgas",
+            "él/ella": "salga",
+            "nosotros": "salgamos",
+            "ellos/Uds": "salgan"
+        },
+        "imperfect": {
+            "yo": "salía",
+            "tú": "salías",
+            "él/ella": "salía",
+            "nosotros": "salíamos",
+            "ellos/Uds": "salían"
+        }
+    }
+}
