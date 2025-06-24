@@ -62,11 +62,6 @@ class Button():
         screen.blit(self.buttonSurface, self.buttonRect)
 
 
-# def restartPressed():
-#     game_loop()
-
-# Button(500, 350, 130, 40, 'Restart', restartPressed)
-
 def get_leaderboard():
     with open('leaderboard.txt', 'r') as f:
         score = f.read()
@@ -111,8 +106,6 @@ def draw_text(text, x, y, color=BLACK, font_size=20):
 
 def draw_flashcard_content(screen, x_offset, question, question_index, total_questions, elapsed_sec, user_input):
     inf, tense, pronoun, answer = question
-    # draw_text(f"{tense}", x_offset + 20, 170, WHITE, 18)
-    # draw_text(inf, x_offset + 20, 220, (135, 206, 250))
     draw_text(inf, x_offset + 20, 170, (135, 206, 250), 25)
     draw_text(f"{tense}", x_offset + 20, 222, WHITE)
     draw_text(f"{pronoun} -> {user_input}", x_offset + 20, 270, WHITE)
@@ -251,11 +244,6 @@ def leaderboard_screen(new_highscore=False):
     while running:
         screen.fill(BACKGROUND_COLOUR)
 
-        # # Handle events
-        # for event in pygame.event.get():
-        #     if event.type == pygame.QUIT or event.type == pygame.KEYDOWN:
-        #         running = False
-
         # Blink logic
         blink_timer += clock.get_time()
         if blink_timer >= blink_interval:
@@ -314,23 +302,6 @@ def generate_questions(num_questions):
         selected_questions.append([inf, tense, pronoun, verbs[inf][tense][pronoun]])
 
     return selected_questions
-
-# def generate_questions(num_questions):
-#     with open('spanish_conjugations.json', 'r') as f:
-#         verbs = json.load(f)
-#
-#     infinitives = list(verbs.keys())
-#     tenses = ["preterite", "present", "imperfect"]
-#     pronouns = ["yo", "tú", "él/ella", "nosotros", "ellos/Uds"]
-#
-#     selected_questions = []
-#     for i in range(len(infinitives)):
-#         for j in range(len(tenses)):
-#             for k in range(len(pronouns)):
-#                 selected_questions.append([infinitives[i], tenses[j], pronouns[k], verbs[infinitives[i]][tenses[j]][pronouns[k]]])
-#
-#     random.shuffle(selected_questions)
-#     return selected_questions
 
 
 def game_loop(mistakes=False):
@@ -415,8 +386,6 @@ def game_loop(mistakes=False):
                 else:
                     draw_flashcard_content(screen, 150, last_mistake, question_index, num_mistakes, False, user_input)
 
-                    #draw_text(f"Card: {question_index + 1}/{num_mistakes}", 350, 170, WHITE, 18)
-                    #draw_text(f"Finished!", 350, 245, WHITE, 18)
 
             if show_correct_text:
                 draw_text("Correct!", 350, 320, GREEN)
@@ -476,17 +445,6 @@ def game_loop(mistakes=False):
                                     user_input,
                                     slide_direction
                                 )
-                            # elif mistakes:
-                            #     question_index = 0
-                            #     slide_flashcard_out_in(
-                            #         selected_questions[question_index],
-                            #         selected_questions[question_index + 1],
-                            #         question_index,
-                            #         total_questions,
-                            #         elapsed_sec,
-                            #         user_input,
-                            #         slide_direction
-                            #     )
                             if review_mistakes_mode and question_index < len(selected_questions):
                                 question_index += 1
 
@@ -531,13 +489,8 @@ def game_loop(mistakes=False):
                                     user_input = ""
                                     show_correct = False
                                     show_correct_text = False
-                                    # if not review_mistakes_mode:
                                     if question_index >= total_questions:
                                         game_over = True
-                                    # else:
-                                    #     if not mistakes:
-                                    #         game_over = True
-
                             # NO ANSWER
                             elif len(user_input.strip()) == 0:
                                 animate_flashcard_wrong()
@@ -569,6 +522,3 @@ def game_loop(mistakes=False):
 
 start_menu()
 game_loop()
-#game_loop([['hacer', 'imperfect', 'tú', 'hacías'], ['ir', 'imperfect', 'ellos/Uds', 'iban'], ['llegar', 'present', 'ellos/Uds', 'llegan']])
-#leaderboard_screen(('dan', 54.34))
-#leaderboard_screen()
